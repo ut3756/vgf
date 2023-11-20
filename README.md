@@ -1,6 +1,6 @@
 # Projekt bootstrap z jakims fajnym tytulem
 Celem projektu jest tworzenie projektów jak sama nazwa wskazuje .ale fajnie
-# Do wykonania projektu zostały użyte:
+# Projekt zawiera:
   - Bootstrap 5.2
   + Javascript
   * Html:+1:
